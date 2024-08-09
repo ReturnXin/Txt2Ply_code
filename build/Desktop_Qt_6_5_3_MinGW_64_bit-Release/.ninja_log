@@ -1,0 +1,11 @@
+# ninja log v6
+5	131	7448691817113601	C:/code/Qt/txt2ply/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	af39b1625fb1d03d
+132	562	7448691822151307	txt2ply_autogen/timestamp	e7502743e1b19b00
+132	562	7448691822151307	txt2ply_autogen/mocs_compilation.cpp	e7502743e1b19b00
+132	562	7448691822151307	C:/code/Qt/txt2ply/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/txt2ply_autogen/timestamp	e7502743e1b19b00
+132	562	7448691822151307	C:/code/Qt/txt2ply/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/txt2ply_autogen/mocs_compilation.cpp	e7502743e1b19b00
+569	1934	7448691822760404	CMakeFiles/txt2ply.dir/main.cpp.obj	ba6c382c4b76d13
+566	1988	7448691822729435	CMakeFiles/txt2ply.dir/txt2ply_autogen/mocs_compilation.cpp.obj	6847aae83a385f5d
+572	2259	7448691822786304	CMakeFiles/txt2ply.dir/widget.cpp.obj	3b1a6bc71652e9ca
+575	2299	7448691822815123	CMakeFiles/txt2ply.dir/txt2ply.cpp.obj	2475fe2a025a4f2a
+2299	2442	7448691840057150	txt2ply.exe	a6d60506bcc749dd
